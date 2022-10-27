@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T07:31:42.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.1" etag="T1vYiP8rZNuRdSwW_eDE" type="github"><diagram id="_3uBpLIwZe8hrTf6u0Rl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-27T08:00:05.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CKqBMiEpvltOtWtjJ3tQ" version="20.5.1" type="github">
+  <diagram id="_3uBpLIwZe8hrTf6u0Rl" name="Pagina-1">
+    <mxGraphModel dx="945" dy="543" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yjONNeaON0orPkpcB1TO-1" value="Gestione del&lt;br&gt;Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-2" value="Gestione delle Mail&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Gestione%20del%26lt%3Bbr%26gt%3BDatabase%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22420%22%20y%3D%22730%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-3" value="Gestione delle Chat&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Gestione%20del%26lt%3Bbr%26gt%3BDatabase%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22420%22%20y%3D%22730%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-4" value="Gestione delle donazioni&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Gestione%20delle%20Chat%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Gestione%2520del%2526lt%253Bbr%2526gt%253BDatabase%2522%2520style%253D%2522rounded%253D0%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522420%2522%2520y%253D%2522730%2522%2520width%253D%2522120%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%25%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22640%22%20y%3D%22870%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-5" value="Autenticazioni" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-6" value="Interfaccia Utente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-7" value="Amicizie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-9" value="Form e Consigli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-10" value="Liste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-11" value="Ricerca" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-12" value="Registrazione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjONNeaON0orPkpcB1TO-14" value="Recensioni" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
