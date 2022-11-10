@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T10:16:40.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YKjtHVRwBIJQudCWrX_I" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T10:38:27.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3wtQSOZljoL_WrYwC0Oz" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="1298" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,23 +26,23 @@
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-10" target="1wih5anYGObqjv8oycVJ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2445" y="1250" as="targetPoint" />
+            <mxPoint x="2635" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-10" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2345" y="1220" width="30" height="60" as="geometry" />
+          <mxGeometry x="2535" y="1230" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-11" value="&lt;span id=&quot;docs-internal-guid-90a9fb47-7fff-066e-2d43-c7900120a454&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;accettare una richiesta di amicizia di un altro utente&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="1215" width="130" height="70" as="geometry" />
+          <mxGeometry x="2630" y="1225" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-13" target="1wih5anYGObqjv8oycVJ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-13" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="1330" width="30" height="60" as="geometry" />
+          <mxGeometry x="2680" y="1340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-14" value="RF21" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2330" y="1170" width="50" height="30" as="geometry" />
+          <mxGeometry x="2520" y="1180" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-17" target="1wih5anYGObqjv8oycVJ-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -66,23 +66,23 @@
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-24" target="1wih5anYGObqjv8oycVJ-25" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3010" y="512.5" as="targetPoint" />
+            <mxPoint x="3275" y="202.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-24" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2910" y="482.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="3175" y="172.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-25" value="&lt;font face=&quot;Arial&quot;&gt;Rimuovere un altro utente&amp;nbsp; dalla propria lista amici&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3005" y="477.5" width="130" height="70" as="geometry" />
+          <mxGeometry x="3270" y="167.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-27" target="1wih5anYGObqjv8oycVJ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-27" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3055" y="592.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="3320" y="282.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-28" value="RF23" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2895" y="427.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="3160" y="117.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-30" target="1wih5anYGObqjv8oycVJ-31" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -303,11 +303,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zF8RVWHiWDD329vGnWzC-1" value="Descrizione use case &quot;recensire un contenuto (film o serie tv) &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;recensire un contenuto (film o serie tv)&amp;nbsp;&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive esaustivamente come avviene la valutazione e la recensione di un titolo presente nel sito&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. L&#39;utente clicca nell&#39;area dei commenti e delle valutazioni nella pagina del film o della serie TV&lt;br style=&quot;font-size: 18px;&quot;&gt;2. L&#39;utente decide quindi di dare un voto, espresso in un numero da 1 a 5 di stelle [extension 1]&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extension&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1] Se l&#39;utente lo desidera, insieme alla valutazione espressa in stelle, può accompagnarla con una recensione testuale più approfondita." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1845" y="365" width="655" height="440" as="geometry" />
+        <mxCell id="zF8RVWHiWDD329vGnWzC-1" value="Descrizione use case &quot;Declinare una richiesta d&#39;amicizia&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Declinare una richiesta d&#39;amicizia&quot;&lt;br&gt;Riassunto: Questo use case descrive come avviene la declinazione di una richiesta d&#39;amicizia&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. Nella pagina della gestione delle amicizie dell&#39;utente loggato viene visualizzata a schermo la lista di tutte le richieste d&#39;amicizie in sospeso&amp;nbsp;&lt;br&gt;2. L&#39;utente quindi per declinare una richiesta preme sul tasto col simbolo &quot;X&quot;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2130" y="365" width="655" height="440" as="geometry" />
         </mxCell>
         <mxCell id="kOb8IDNcDqG_YLjA2Kxv-1" value="&lt;span style=&quot;&quot;&gt;1. L&#39;utente autenticato seleziona la barra di ricerca, ed inserisce il nome del film o della serie tv che vuole recensire&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Il sistema mostra la lista di tutti i risultati compatibili con la chiave di ricerca [exception 1]&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;3. L&#39;utente seleziona il titolo che cercava&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;4. Il sistema quindi mostra una pagina dettagliata con tutte le informazioni disponibili riguardo l&#39;opera in questione (Titolo, anno di produzione, sinossi, locandina, durata, valutazione della community), scendendo nella pagina si può trovare anche l&#39;area adibita alle recensioni&lt;br&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Exceptions&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;[exception 1] Se non vi sono titoli compatibili con la chiave di ricerca non viene visualizzata alcuna lista ma viene visualizzato un messaggio di notifica di &quot;indisponibilità di risultati compatibili&quot;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="70" y="2070" width="2190" height="160" as="geometry" />
+          <mxGeometry x="725" y="2070" width="2190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-2" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" edge="1" parent="1" source="pAfYyNeDYyBu8H6u1rMm-1" target="1wih5anYGObqjv8oycVJ-5">
           <mxGeometry relative="1" as="geometry" />
@@ -329,29 +329,29 @@
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-5" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" edge="1" parent="1" source="pAfYyNeDYyBu8H6u1rMm-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3135" y="512.5" as="targetPoint" />
+            <mxPoint x="3400" y="202.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3155" y="564.5" />
-              <mxPoint x="3155" y="512.5" />
+              <mxPoint x="3420" y="254.5" />
+              <mxPoint x="3420" y="202.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-6" value="premere il tasto per eliminare un amico nella propria pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3199" y="552.5" width="146" height="100" as="geometry" />
+          <mxGeometry x="3464" y="242.5" width="146" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-7" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" edge="1" parent="1" source="pAfYyNeDYyBu8H6u1rMm-8" target="1wih5anYGObqjv8oycVJ-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2561" y="1240" as="targetPoint" />
+            <mxPoint x="2751" y="1250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2646" y="1295" />
-              <mxPoint x="2646" y="1292" />
-              <mxPoint x="2595" y="1292" />
-              <mxPoint x="2595" y="1250" />
+              <mxPoint x="2836" y="1305" />
+              <mxPoint x="2836" y="1302" />
+              <mxPoint x="2785" y="1302" />
+              <mxPoint x="2785" y="1260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-8" value="premere il tasto per accettare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2619" y="1280" width="146" height="100" as="geometry" />
+          <mxGeometry x="2809" y="1290" width="146" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-11" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.967;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="pAfYyNeDYyBu8H6u1rMm-9" target="1wih5anYGObqjv8oycVJ-5">
           <mxGeometry relative="1" as="geometry">
@@ -368,19 +368,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-12" value="premere il tasto per rimuovere l&#39;amico nella pagina dell&#39;utente oggetto stesso" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3232" y="390" width="123" height="105" as="geometry" />
+          <mxGeometry x="3497" y="80" width="123" height="105" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-18" value="Descrizione use case &quot;aggiungere film o serie tv alla propria lista dei contenuti visionati&quot;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Titolo: &quot;aggiungere film o serie tv alla propria lista dei contenuti visionati&quot;&lt;br style=&quot;font-size: 16px;&quot;&gt;Riassunto: Questo use case descrive come avviene l&#39;aggiunta alla lista dei contenuti visionati dei titoli multimediali&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 16px;&quot;&gt;1. L&#39;utente loggato decide di aggiungere un film o una serie tv tramite il pulsante apposito. [extension 1] [extension 2] [extension 3]&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 16px;&quot;&gt;[extension 1] 1.Se l&#39;utente si trova nella pagina del titolo interessato, può cliccare sul pulsante con la scritta &quot;Aggiungi alla lista&quot;&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;2. L&#39;utente decide quindi di aggiungere il titolo alla lista dei visionati;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;[extension 2] 1. Se l&#39;utente si trova nella pagina della lista dei visionati, può cliccare sul pulsante contenente il simbolo &quot;+&quot;&lt;br style=&quot;font-size: 16px;&quot;&gt;2. Dopodiché l&#39;utente inserisce nella barra di ricerca associata il nome del titolo interessato&lt;br style=&quot;font-size: 16px;&quot;&gt;3. Viene visualizzata a schermo la lista dei risultati compatibili con la chiave di ricerca immessa [exception 1]&lt;br style=&quot;font-size: 16px;&quot;&gt;4. In questa lista l&#39;utente preme sul titolo esatto, aggiungendolo quindi alla lista.&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;[extension 3] se il titolo è una serie tv l&#39;utente può anche scegliere fino a che stagione ha visionato la serie&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Exceptions&lt;br style=&quot;font-size: 16px;&quot;&gt;[exception 1] Se non vi sono titoli compatibili con la chiave di ricerca non viene visualizzata alcuna lista ma viene visualizzato un messaggio di notifica di &quot;indisponibilità di risultati compatibili&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="380" width="872.5" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-19" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1307" y="365" width="482.5" height="370" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-20" value="Descrizione use case &quot;aggiungere film o serie tv alla propria lista dei contenuti da vedere in futuro&quot;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Titolo: &quot;aggiungere film o serie tv alla propria lista dei contenuti da vedere in futuro&quot;&lt;br style=&quot;font-size: 17px;&quot;&gt;Riassunto: Questo use case descrive come avviene l&#39;aggiunta alla lista dei contenuti da vedere in futuro dei titoli multimediali&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 17px;&quot;&gt;1. L&#39;utente loggato decide di aggiungere un film o una serie tv tramite il pulsante apposito. [extension 1] [extension 2]&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 17px;&quot;&gt;[extension 1] 1.Se l&#39;utente si trova nella pagina del titolo interessato, può cliccare sul pulsante con la scritta &quot;Aggiungi alla lista&quot;&amp;nbsp;&lt;br style=&quot;font-size: 17px;&quot;&gt;2. L&#39;utente decide quindi di aggiungere il titolo alla lista dei &quot;da vedere in futuro&quot;;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;[extension 2] 1. Se l&#39;utente si trova nella pagina della lista dei &quot;da vedere in futuro&quot;, può cliccare sul pulsante contenente il simbolo &quot;+&quot;&lt;br style=&quot;font-size: 17px;&quot;&gt;2. Dopodiché l&#39;utente inserisce nella barra di ricerca associata il nome del titolo interessato&lt;br style=&quot;font-size: 17px;&quot;&gt;3. Viene visualizzata a schermo la lista dei risultati compatibili con la chiave di ricerca immessa [exception 1]&lt;br style=&quot;font-size: 17px;&quot;&gt;4. In questa lista l&#39;utente preme sul titolo esatto, aggiungendolo quindi alla lista." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1430" width="880" height="660" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-21" value="Descrizione use case &quot;recensire un contenuto (film o serie tv) &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;recensire un contenuto (film o serie tv)&amp;nbsp;&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive esaustivamente come avviene la valutazione e la recensione di un titolo presente nel sito&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. L&#39;utente clicca nell&#39;area dei commenti e delle valutazioni nella pagina del film o della serie TV&lt;br style=&quot;font-size: 18px;&quot;&gt;2. L&#39;utente decide quindi di dare un voto, espresso in un numero da 1 a 5 di stelle [extension 1]&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extension&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1] Se l&#39;utente lo desidera, insieme alla valutazione espressa in stelle, può accompagnarla con una recensione testuale più approfondita." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="195" y="1490" width="655" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-22" value="Descrizione use case &quot; &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot; &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. &lt;br&gt;2. &lt;br&gt;[extension 1]&lt;br&gt;[exception 1]&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Exceptions&lt;br&gt;[exception 1]&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="360" width="655" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-24" value="Descrizione use case &quot;Rimuovere un amico dalla propria lista amici&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Rimuovere un amico dalla propria lista amici&quot;&lt;br&gt;Riassunto: Questo use case descrive come avviene la rimozione di un &quot;utente amico&quot; dalla propria lista amici&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. L&#39;utente rimuove l&#39;utente amico dalla lista amici mediante il tasto apposito [extension 1]&lt;br&gt;[extension 2]&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1] Se l&#39;utente si trova nella pagina dell&#39; &quot;utente amico&quot; stesso può premere il tasto &quot;Rimuovi amicizia&quot;&lt;br&gt;[extension 2] Se l&#39;utente si trova nella pagina delle proprie amicizie può premere sul tasto &quot;Rimuovi&quot; dell&#39; &quot;utente amico&quot;, presente poco sotto il nome utente." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="380" width="655" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-25" value="Descrizione use case &quot;Accettare una richiesta d&#39;amicizia&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Accettare una richiesta d&#39;amicizia&quot;&lt;br&gt;Riassunto: Questo use case descrive come avviene l&#39;accettazione di una richiesta d&#39;amicizia&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. Nella pagina della gestione delle amicizie dell&#39;utente loggato viene visualizzata a schermo la lista di tutte le richieste d&#39;amicizie in sospeso&amp;nbsp;&lt;br&gt;2. L&#39;utente quindi per declinare una richiesta preme sul tasto col simbolo &quot;V&quot; (crocetta)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="1390" width="655" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
