@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T10:45:52.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="N3ucbeEYdesDYLXWLLeO" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T10:46:13.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Emd-Y1JqVS88bP3lkN9P" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="1153" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,7 +389,7 @@
           <mxGeometry x="3250" y="1580" width="655" height="440" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-27" value="Descrizione use case &quot;Avviare una chat con un amico&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Avviare una chat con un amico&quot;&lt;br&gt;Riassunto: Questo use case descrive come s&#39;inizia una chat con un utente amico&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. L&#39;utente avvia la chat con l&#39;utente amico mediante il tasto apposito [extension 1]&lt;br&gt;[extension 2]&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1] Se l&#39;utente si trova nella pagina dell&#39; &quot;utente amico&quot; stesso può premere il tasto contenente il simbolo &quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot; per avviare la chat&amp;nbsp;&lt;br&gt;[extension 2] Se l&#39;utente si trova nella pagina delle proprie amicizie può premere sul tasto &quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot; dell&#39; &quot;utente amico&quot;, presente accanto al nome utente." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1332.5" y="370" width="667.5" height="440" as="geometry" />
+          <mxGeometry x="1326.25" y="330" width="667.5" height="440" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ibrandify-basic-essentials-icon-set/512/pen_stroke_sketch_doodle_lineart_127-128.png;fontSize=16;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1727" y="674" width="30" height="30" as="geometry" />
