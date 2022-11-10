@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T14:42:08.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_yFlCVvoa3ZMmUM_Kedx" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T09:15:23.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mwreOydVGPgle7GKLbFz" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="1865" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,43 +46,43 @@
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-17" target="1wih5anYGObqjv8oycVJ-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="135" as="targetPoint" />
+            <mxPoint x="855" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-17" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="515" y="105" width="30" height="60" as="geometry" />
+          <mxGeometry x="755" y="75" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-18" value="&lt;span id=&quot;docs-internal-guid-384318f2-7fff-9b09-db65-0b03f8e28b90&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;declinare una richiesta di amicizia di un altro utente, col pulsante apposito&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="610" y="100" width="130" height="70" as="geometry" />
+          <mxGeometry x="850" y="70" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-20" target="1wih5anYGObqjv8oycVJ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-20" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="660" y="215" width="30" height="60" as="geometry" />
+          <mxGeometry x="900" y="185" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-21" value="RF22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="500" y="55" width="50" height="30" as="geometry" />
+          <mxGeometry x="740" y="25" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-24" target="1wih5anYGObqjv8oycVJ-25" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="410" as="targetPoint" />
+            <mxPoint x="855" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-24" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="515" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="755" y="355" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-25" value="&lt;font face=&quot;Arial&quot;&gt;Rimuovere un altro utente&amp;nbsp; dalla propria lista amici&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="610" y="375" width="130" height="70" as="geometry" />
+          <mxGeometry x="850" y="350" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-27" target="1wih5anYGObqjv8oycVJ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-27" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="660" y="490" width="30" height="60" as="geometry" />
+          <mxGeometry x="900" y="465" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-28" value="RF23" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="500" y="330" width="50" height="30" as="geometry" />
+          <mxGeometry x="740" y="300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-30" target="1wih5anYGObqjv8oycVJ-31" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -303,13 +303,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zF8RVWHiWDD329vGnWzC-1" value="Descrizione use case &quot;recensire un contenuto (film o serie tv) &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;recensire un contenuto (film o serie tv)&amp;nbsp;&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive esaustivamente come avviene la valutazione e la recensione di un titolo presente nel sito&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. L&#39;utente clicca nell&#39;area dei commenti e delle valutazioni nella pagina del film o della serie TV&lt;br style=&quot;font-size: 18px;&quot;&gt;2. L&#39;utente decide quindi di dare un voto, espresso in un numero da 1 a 5 di stelle [extension 1]&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extension&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1] Se l&#39;utente lo desidera, insieme alla valutazione espressa in stelle, può accompagnarla con una recensione testuale più approfondita." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="75" y="1559" width="655" height="440" as="geometry" />
+          <mxGeometry x="50" y="1440" width="655" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="zF8RVWHiWDD329vGnWzC-2" value="SECONDO ME DEVO ACCORPARE UN PO&#39; DI ROBA QUA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="705" y="300" width="350" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kOb8IDNcDqG_YLjA2Kxv-1" value="&lt;span style=&quot;&quot;&gt;1. L&#39;utente autenticato seleziona la barra di ricerca, ed inserisce il nome del film o della serie tv che vuole recensire&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Il sistema mostra la lista di tutti i risultati compatibili con la chiave di ricerca [exception 1]&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;3. L&#39;utente seleziona il titolo che cercava&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;4. Il sistema quindi mostra una pagina dettagliata con tutte le informazioni disponibili riguardo l&#39;opera in questione (Titolo, anno di produzione, sinossi, locandina, durata, valutazione della community), scendendo nella pagina si può trovare anche l&#39;area adibita alle recensioni&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="kOb8IDNcDqG_YLjA2Kxv-1" value="&lt;span style=&quot;&quot;&gt;1. L&#39;utente autenticato seleziona la barra di ricerca, ed inserisce il nome del film o della serie tv che vuole recensire&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;2. Il sistema mostra la lista di tutti i risultati compatibili con la chiave di ricerca [exception 1]&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;3. L&#39;utente seleziona il titolo che cercava&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;4. Il sistema quindi mostra una pagina dettagliata con tutte le informazioni disponibili riguardo l&#39;opera in questione (Titolo, anno di produzione, sinossi, locandina, durata, valutazione della community), scendendo nella pagina si può trovare anche l&#39;area adibita alle recensioni&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-415" y="2090" width="2190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-2" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" edge="1" parent="1" source="pAfYyNeDYyBu8H6u1rMm-1" target="1wih5anYGObqjv8oycVJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-1" value="premere il tasto per avviare la chat con l&#39;amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="377" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-3" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" edge="1" source="pAfYyNeDYyBu8H6u1rMm-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="152" />
+              <mxPoint x="1000" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-4" value="premere il tasto per rifiutare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="140" width="146" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-5" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" edge="1" parent="1" source="pAfYyNeDYyBu8H6u1rMm-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="385" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="437" />
+              <mxPoint x="1000" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-6" value="premere il tasto per eliminare un amico nella propria pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="425" width="146" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-7" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" edge="1" parent="1" source="pAfYyNeDYyBu8H6u1rMm-8" target="1wih5anYGObqjv8oycVJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="391" y="455" />
+              <mxPoint x="391" y="452" />
+              <mxPoint x="340" y="452" />
+              <mxPoint x="340" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-8" value="premere il tasto per accettare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="440" width="146" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
