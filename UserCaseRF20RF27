@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T17:37:20.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="noLgrzB_CK8bJLoojItA" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T17:46:34.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-Z5Xtsmk_or94HwdZkA2" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="1153" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,8 +382,8 @@
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ibrandify-basic-essentials-icon-set/512/pen_stroke_sketch_doodle_lineart_127-128.png;fontSize=16;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1457" y="718" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-30" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;NON C&#39;E&#39; UN REQUISITO ESATTO&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="1150" width="342.5" height="60" as="geometry" />
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-30" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;DA VEDERE&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="235" y="-40" width="342.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-37" value="REQUISITI" style="swimlane;whiteSpace=wrap;html=1;fontSize=21;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="1970" width="540" height="230" as="geometry" />
