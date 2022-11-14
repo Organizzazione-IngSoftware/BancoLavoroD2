@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T19:01:36.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EPC__IpS8j_peNOiQphE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T19:33:24.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WIpzT7dhEh2enC3XTVi1" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="1038" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,23 +26,23 @@
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-10" target="1wih5anYGObqjv8oycVJ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2635" y="1260" as="targetPoint" />
+            <mxPoint x="3285" y="1249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-10" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2535" y="1230" width="30" height="60" as="geometry" />
+          <mxGeometry x="3185" y="1219" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-11" value="&lt;span id=&quot;docs-internal-guid-90a9fb47-7fff-066e-2d43-c7900120a454&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;accettare una richiesta di amicizia di un altro utente&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2630" y="1225" width="130" height="70" as="geometry" />
+          <mxGeometry x="3280" y="1214" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-13" target="1wih5anYGObqjv8oycVJ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-13" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2680" y="1340" width="30" height="60" as="geometry" />
+          <mxGeometry x="3330" y="1329" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-14" value="RF20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2520" y="1180" width="50" height="30" as="geometry" />
+          <mxGeometry x="3170" y="1169" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-17" target="1wih5anYGObqjv8oycVJ-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -112,8 +112,11 @@
         <mxCell id="1wih5anYGObqjv8oycVJ-39" value="Apertura della pagina della lista" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="399" y="115" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-13" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;" edge="1" parent="1" source="1wih5anYGObqjv8oycVJ-42" target="Zeni_m9Vl_KFPvct1iLt-12">
-          <mxGeometry x="0.5474" y="10" relative="1" as="geometry">
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-13" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=12;" edge="1" parent="1" source="Zeni_m9Vl_KFPvct1iLt-3" target="Zeni_m9Vl_KFPvct1iLt-12">
+          <mxGeometry x="0.0928" y="29" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="431" y="470" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -144,11 +147,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-15" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;dashed=1;" edge="1" parent="1" source="1wih5anYGObqjv8oycVJ-48" target="Zeni_m9Vl_KFPvct1iLt-12">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.165" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="530" />
-              <mxPoint x="620" y="430" />
+              <mxPoint x="620" y="510" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-48" value="Se il titolo è una serie TV, aggiungere fino alla stagione vista" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;" parent="1" vertex="1">
@@ -316,17 +320,17 @@
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-7" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-8" target="1wih5anYGObqjv8oycVJ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2751" y="1250" as="targetPoint" />
+            <mxPoint x="3401" y="1239" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2836" y="1305" />
-              <mxPoint x="2836" y="1302" />
-              <mxPoint x="2785" y="1302" />
-              <mxPoint x="2785" y="1260" />
+              <mxPoint x="3486" y="1294" />
+              <mxPoint x="3486" y="1291" />
+              <mxPoint x="3435" y="1291" />
+              <mxPoint x="3435" y="1249" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-8" value="premere il tasto per accettare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2809" y="1290" width="146" height="100" as="geometry" />
+          <mxGeometry x="3459" y="1279" width="146" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-11" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.967;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-9" target="1wih5anYGObqjv8oycVJ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -346,7 +350,7 @@
           <mxGeometry x="3497" y="80" width="123" height="105" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-18" value="Descrizione use case &quot;aggiungere film o serie tv alle proprie liste&quot;&lt;br style=&quot;font-size: 1px;&quot;&gt;&lt;br style=&quot;font-size: 1px;&quot;&gt;Titolo: &quot;aggiungere film o serie tv alle proprie liste&quot;&lt;br style=&quot;font-size: 1px;&quot;&gt;Riassunto: Questo use case descrive come avviene l&#39;aggiunta alla liste dei titoli multimediali&lt;br style=&quot;font-size: 1px;&quot;&gt;&lt;br style=&quot;font-size: 1px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 1px;&quot;&gt;1. L&#39;utente loggato decide di aggiungere un film o una serie tv tramite il pulsante apposito. [extension 1] [extension 2]&lt;br style=&quot;font-size: 1px;&quot;&gt;&lt;br style=&quot;font-size: 1px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 1px;&quot;&gt;[extension 1] 1.Se l&#39;utente si trova nella pagina del titolo interessato, può cliccare sul pulsante con la scritta &quot;Aggiungi alla lista/Visualizza in futuro&quot;&amp;nbsp;&lt;br style=&quot;font-size: 1px;&quot;&gt;2. L&#39;utente decide quindi di aggiungere il titolo alla lista dei visionati [extension 3] o dei contenuti da guardare in futuro;&lt;br style=&quot;font-size: 1px;&quot;&gt;&lt;br style=&quot;font-size: 1px;&quot;&gt;[extension 2] 1. Se l&#39;utente si trova nella pagina personale con tutte le liste, può cliccare sul pulsante contenente il simbolo &quot;+&quot;&lt;br style=&quot;font-size: 1px;&quot;&gt;2. [RF 2] RICERCA&lt;br style=&quot;font-size: 1px;&quot;&gt;3. In questa lista l&#39;utente preme sul risultato esatto, aggiungendolo quindi alla lista [extension 3];&lt;br style=&quot;font-size: 1px;&quot;&gt;.&lt;br style=&quot;font-size: 1px;&quot;&gt;&lt;br style=&quot;font-size: 1px;&quot;&gt;[extension 3] se il titolo è una serie tv l&#39;utente può anche scegliere fino a che stagione ha visionato la serie&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="930" width="78.5" height="20" as="geometry" />
+          <mxGeometry x="600" y="-100" width="78.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-20" value="Descrizione use case &quot;aggiungere film o serie tv alla propria lista dei contenuti da vedere in futuro&quot;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Titolo: &quot;aggiungere film o serie tv alla propria lista dei contenuti da vedere in futuro&quot;&lt;br style=&quot;font-size: 17px;&quot;&gt;Riassunto: Questo use case descrive come avviene l&#39;aggiunta alla lista dei contenuti da vedere in futuro dei titoli multimediali&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 17px;&quot;&gt;1. L&#39;utente loggato decide di aggiungere un film o una serie tv tramite il pulsante apposito. [extension 1] [extension 2]&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 17px;&quot;&gt;[extension 1] 1.Se l&#39;utente si trova nella pagina del titolo interessato, può cliccare sul pulsante con la scritta &quot;Aggiungi alla lista&quot;&amp;nbsp;&lt;br style=&quot;font-size: 17px;&quot;&gt;2. L&#39;utente decide quindi di aggiungere il titolo alla lista dei &quot;da vedere in futuro&quot;;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;[extension 2] 1. Se l&#39;utente si trova nella pagina della lista dei &quot;da vedere in futuro&quot;, può cliccare sul pulsante contenente il simbolo &quot;+&quot;&lt;br style=&quot;font-size: 17px;&quot;&gt;2. Dopodiché l&#39;utente inserisce nella barra di ricerca associata il nome del titolo interessato&lt;br style=&quot;font-size: 17px;&quot;&gt;3. Viene visualizzata a schermo la lista dei risultati compatibili con la chiave di ricerca immessa [exception 1]&lt;br style=&quot;font-size: 17px;&quot;&gt;4. In questa lista l&#39;utente preme sul titolo esatto, aggiungendolo quindi alla lista." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="4260" y="2463.75" width="880" height="560" as="geometry" />
@@ -358,7 +362,7 @@
           <mxGeometry x="3040" y="380" width="655" height="440" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-25" value="Descrizione use case &quot;Accettare una richiesta d&#39;amicizia&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Accettare una richiesta d&#39;amicizia&quot;&lt;br&gt;Riassunto: Questo use case descrive come avviene l&#39;accettazione di una richiesta d&#39;amicizia&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. Nella pagina della gestione delle amicizie dell&#39;utente loggato viene visualizzata a schermo la lista di tutte le richieste d&#39;amicizie in sospeso&amp;nbsp;&lt;br&gt;2. L&#39;utente quindi per declinare una richiesta preme sulla spunta verde" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="1390" width="655" height="440" as="geometry" />
+          <mxGeometry x="3050" y="1379" width="655" height="440" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-26" value="Descrizione use case &quot; &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot; &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. &lt;br&gt;2. &lt;br&gt;[extension 1]&lt;br&gt;[exception 1]&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Exceptions&lt;br&gt;[exception 1]&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="5407.5" y="2343.75" width="655" height="440" as="geometry" />
@@ -382,16 +386,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-3" value="Utente Loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="1270" width="30" height="60" as="geometry" />
+          <mxGeometry x="2261" y="1215" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-4" value="Riordina liste" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1362.5" y="1260" width="120" height="80" as="geometry" />
+          <mxGeometry x="2382.5" y="1205" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="__B8ci54kG6Wg90A03j6-6" target="__B8ci54kG6Wg90A03j6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-6" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1407.5" y="1390" width="30" height="60" as="geometry" />
+          <mxGeometry x="2427.5" y="1335" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-9" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="__B8ci54kG6Wg90A03j6-8" target="__B8ci54kG6Wg90A03j6-4" edge="1">
           <mxGeometry x="0.0323" y="10" relative="1" as="geometry">
@@ -399,7 +403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-8" value="Seleziona e visualizza lista con i contenuti espansi" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="1260" width="120" height="80" as="geometry" />
+          <mxGeometry x="2620" y="1205" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-11" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="__B8ci54kG6Wg90A03j6-10" target="__B8ci54kG6Wg90A03j6-4" edge="1">
           <mxGeometry x="-0.1579" y="-10" relative="1" as="geometry">
@@ -407,24 +411,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-10" value="Drag&amp;amp;Drop sui titoli presenti nella lista" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1637" y="1360" width="120" height="80" as="geometry" />
+          <mxGeometry x="2657" y="1305" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-12" value="Descrizione use case &quot;Riordinare liste&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Riordinare liste&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive come l&#39;utente può riordinare le proprie liste&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1.Nella propria pagina personale l&#39;utente loggato preme sul widget contenente la lista desiderata&lt;br&gt;2.Viene visualizzata la lista espansa con tutti i titoli presenti&lt;br&gt;3. Tramite Drag&amp;amp;Drop l&#39;utente può riordinare i titoli che gli interessano&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="1480" width="655" height="350" as="geometry" />
+          <mxGeometry x="2210" y="1425" width="655" height="350" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-13" value="RF25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1231" y="1225" width="50" height="30" as="geometry" />
+          <mxGeometry x="2251" y="1170" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-3" value="Ricerca del contenuto specifico&amp;nbsp;&lt;br style=&quot;font-size: 12px;&quot;&gt;[RF2]&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="399" y="305" width="161" height="70" as="geometry" />
+          <mxGeometry x="407.5" y="330" width="161" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-5" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.725;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="1wih5anYGObqjv8oycVJ-42" target="Zeni_m9Vl_KFPvct1iLt-3">
-          <mxGeometry x="0.5639" y="10" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-5" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="1wih5anYGObqjv8oycVJ-46" target="Zeni_m9Vl_KFPvct1iLt-3">
+          <mxGeometry x="-0.1182" y="39" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="390" as="sourcePoint" />
             <mxPoint x="570" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="286" y="340" />
-            </Array>
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -437,13 +439,60 @@
           <mxGeometry x="685" y="250" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-11" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=11;" edge="1" parent="1" source="Zeni_m9Vl_KFPvct1iLt-10" target="Zeni_m9Vl_KFPvct1iLt-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.1544" y="24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-10" value="&#xa;&lt;b id=&quot;docs-internal-guid-865f4cf7-7fff-0287-a66b-7ed743ccb24a&quot; style=&quot;font-weight: normal; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;La ricerca di un contenuto per la top10 è automaticamente filtrata tra la lista dei titolo già visti&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" vertex="1" parent="1">
           <mxGeometry x="720" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-12" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;selezione del titolo desiderato&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-11;" vertex="1" parent="1">
-          <mxGeometry x="419.5" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="414" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-16" value="&#xa;&lt;b id=&quot;docs-internal-guid-a32d5052-7fff-5144-e119-bdd53edb09ab&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Titolo&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Togliere film o serie tv dalle proprie liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Riassunto&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Questo use case descrive come avviene la rimozione dei contenuti alle liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Descrizione&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 1: l&#39;utente apre la pagina dedicata alla lista desiderata, tramite apposito widget;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 2: l’utente clicca sul pulsante “x” presente nell’angolo in alto a destra di ogni contenuto della lista per poter rimuovere un titolo dalla lista;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 3: si seleziona il titolo desiderato e lo si rimuove [extension 1].&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Extensions&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- extension 1: Se il titolo che si vuole rimuovere dalla lista è una serie tv, è possibile selezionare fino a che stagione si vuole rimuovere;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="1480" width="690" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zeni_m9Vl_KFPvct1iLt-17" target="Zeni_m9Vl_KFPvct1iLt-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1255" y="1289.7826086956525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-17" value="Utente Loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="1260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-19" value="Rimuovere contenuti dalle proprie liste" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="1250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Zeni_m9Vl_KFPvct1iLt-21" target="Zeni_m9Vl_KFPvct1iLt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-21" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="1365" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-24" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Zeni_m9Vl_KFPvct1iLt-25">
+          <mxGeometry x="-0.1333" y="-15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1413" y="1290" as="sourcePoint" />
+            <mxPoint x="1479" y="1314.75" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-25" value="Apertura della pagina della lista" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="1249.75" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;lt;include&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1413" y="1351.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=0.91;exitY=0.772;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="Zeni_m9Vl_KFPvct1iLt-28" source="Zeni_m9Vl_KFPvct1iLt-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400.426406871193" y="1318.0342712474617" as="sourcePoint" />
+            <mxPoint x="1529" y="1374.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="1375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-28" value="Premere il tasto per aggiungere&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;con il simbolo &quot;x&quot; sul titolo d&#39;interesse&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1513" y="1335" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
