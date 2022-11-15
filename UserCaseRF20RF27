@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T12:12:19.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="srsN-Y3jPwD2qckceNJ2" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T12:16:11.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sOxP6fFvoApUWqpTQ5d2" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
     <mxGraphModel dx="1093" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-1" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1382.5" y="125" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI372Vp3aDthkAyLZ4e2-2" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;dashed=1;" edge="1" parent="1" source="1wih5anYGObqjv8oycVJ-5" target="pAfYyNeDYyBu8H6u1rMm-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-5" value="Avviare una chat con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1482.5" y="125" width="120" height="60" as="geometry" />
@@ -292,7 +295,7 @@
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-4" value="premere il tasto per rifiutare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2564" y="205" width="146" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-5" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-6" edge="1">
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-5" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3400" y="202.5" as="targetPoint" />
             <Array as="points">
@@ -318,19 +321,16 @@
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-8" value="premere il tasto per accettare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3459" y="1279" width="146" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-11" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.967;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-9" target="1wih5anYGObqjv8oycVJ-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1642.5" y="96" />
-              <mxPoint x="1642.5" y="139" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-9" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;premere il tasto per avviare la chat con l&#39;amico nella pagina&lt;/span&gt;&lt;br&gt;di gestione amiczie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1706.5" y="65" width="156" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-13" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-12" target="1wih5anYGObqjv8oycVJ-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-13" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="1wih5anYGObqjv8oycVJ-25" target="pAfYyNeDYyBu8H6u1rMm-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3420" y="167" />
+              <mxPoint x="3420" y="133" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-12" value="premere il tasto per rimuovere l&#39;amico nella pagina dell&#39;utente oggetto stesso" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3497" y="80" width="123" height="105" as="geometry" />
