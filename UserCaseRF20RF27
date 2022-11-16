@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T12:16:36.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CL7VwlWRvCUMOFy-i9Zs" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T10:06:51.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XtvOfneAbTqpP4qNVscH" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="1093" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         <mxCell id="1wih5anYGObqjv8oycVJ-1" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1382.5" y="125" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RI372Vp3aDthkAyLZ4e2-2" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;dashed=1;" edge="1" parent="1" source="1wih5anYGObqjv8oycVJ-5" target="pAfYyNeDYyBu8H6u1rMm-9">
+        <mxCell id="RI372Vp3aDthkAyLZ4e2-2" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;dashed=1;" parent="1" source="1wih5anYGObqjv8oycVJ-5" target="pAfYyNeDYyBu8H6u1rMm-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-5" value="Avviare una chat con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -129,11 +129,6 @@
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-46" value="Premere il tasto per aggiungere&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;con il simbolo &quot;+&quot;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="446.5" y="115" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-1" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="1wih5anYGObqjv8oycVJ-43" target="1wih5anYGObqjv8oycVJ-46" edge="1">
-          <mxGeometry y="-15" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-15" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;dashed=1;" parent="1" source="1wih5anYGObqjv8oycVJ-48" target="Zeni_m9Vl_KFPvct1iLt-12" edge="1">
           <mxGeometry x="0.165" y="-10" relative="1" as="geometry">
@@ -416,13 +411,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-9" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=12;" parent="1" source="Zeni_m9Vl_KFPvct1iLt-8" target="1wih5anYGObqjv8oycVJ-46" edge="1">
-          <mxGeometry x="0.157" y="-8" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-8" value="&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;b id=&quot;docs-internal-guid-c792015d-7fff-e652-3b1b-59c4313aa883&quot; style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Se ci si trova nella pagina della lista dei contenuti già guardati, si può aggiungere un titolo alla top10 cliccando su “Aggiungi alla top10”&lt;/span&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;spacing=2;spacingLeft=-1;spacingBottom=9;" parent="1" vertex="1">
-          <mxGeometry x="717.5" y="157.5" width="215" height="120" as="geometry" />
+          <mxGeometry x="730" y="155" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-11" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=11;" parent="1" source="Zeni_m9Vl_KFPvct1iLt-10" target="Zeni_m9Vl_KFPvct1iLt-3" edge="1">
           <mxGeometry x="-0.1544" y="24" relative="1" as="geometry">
