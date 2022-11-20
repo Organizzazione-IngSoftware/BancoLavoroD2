@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T16:18:38.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2gf7TlLBAG0LaVNu2rJK" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T10:53:16.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q9okJ4skwzDdF_tXyqdp" version="20.5.3" type="github">
   <diagram id="dAtFrbRqFhm2w0OMjDu8" name="Pagina-1">
-    <mxGraphModel dx="1865" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-53" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Approva/disapprova recensioni&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-52" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-54" value="Codice" style="endArrow=classic;html=1;rounded=0;exitX=0.638;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="PEF5FeGuaxUVhhYKDudY-1">
+        <mxCell id="Iv0paGdok0cvm0LcO6Oo-54" value="Codice" style="endArrow=classic;html=1;rounded=0;exitX=0.638;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="548.73" as="sourcePoint" />
             <mxPoint x="330" y="709.9954061153018" as="targetPoint" />
@@ -231,13 +231,13 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-57" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Richiesta di &lt;br&gt;accesso alla chat&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-56" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-58" value="Richiesta invio maill" style="endArrow=classic;html=1;rounded=0;exitX=0.348;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="PEF5FeGuaxUVhhYKDudY-1">
+        <mxCell id="Iv0paGdok0cvm0LcO6Oo-58" value="Richiesta invio maill" style="endArrow=classic;html=1;rounded=0;exitX=0.348;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="550" as="sourcePoint" />
             <mxPoint x="229.99999999999986" y="711.2654061153016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-59" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Richiesta invio&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;mail e codice&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-58" connectable="0" vertex="1">
+        <mxCell id="Iv0paGdok0cvm0LcO6Oo-59" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Richiesta invio&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;mail con codice&lt;br&gt;= unica freccia + freccia per conferma mail in registrazione???&lt;br&gt;&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-58" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="38" y="219" as="offset" />
           </mxGeometry>
