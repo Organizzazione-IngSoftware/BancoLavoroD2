@@ -1,32 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T13:35:53.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RMn4jBomvVlt4DxRzH9h" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T13:47:27.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TLJKdvLJOgsXH8x4je9t" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="6920" dy="5007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="2831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1wih5anYGObqjv8oycVJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-1" target="1wih5anYGObqjv8oycVJ-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1482.5" y="155" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-1" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1382.5" y="125" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RI372Vp3aDthkAyLZ4e2-2" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;dashed=1;" parent="1" source="1wih5anYGObqjv8oycVJ-5" target="pAfYyNeDYyBu8H6u1rMm-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-5" value="Avviare una chat con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1482.5" y="125" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-6" target="1wih5anYGObqjv8oycVJ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-6" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1527.5" y="235" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-8" value="RF19" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1367.5" y="70" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-10" target="1wih5anYGObqjv8oycVJ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3435" y="1792.63" as="targetPoint" />
@@ -46,26 +23,6 @@
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-14" value="RF20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="3320" y="1712.63" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-17" target="1wih5anYGObqjv8oycVJ-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2375" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-17" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2275" y="140" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-18" value="&lt;span id=&quot;docs-internal-guid-384318f2-7fff-9b09-db65-0b03f8e28b90&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;declinare una richiesta di amicizia di un altro utente,&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2370" y="135" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-20" target="1wih5anYGObqjv8oycVJ-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-20" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="250" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1wih5anYGObqjv8oycVJ-21" value="RF21" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="90" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1wih5anYGObqjv8oycVJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1wih5anYGObqjv8oycVJ-24" target="1wih5anYGObqjv8oycVJ-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -267,28 +224,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zF8RVWHiWDD329vGnWzC-1" value="Descrizione use case &quot;Declinare una richiesta d&#39;amicizia&quot;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;Titolo: &quot;Declinare una richiesta d&#39;amicizia&quot;&lt;br style=&quot;font-size: 19px;&quot;&gt;Riassunto: Questo use case descrive come avviene la declinazione di una richiesta d&#39;amicizia&amp;nbsp;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 19px;&quot;&gt;1. Nella pagina della gestione delle amicizie dell&#39;utente loggato viene visualizzata a schermo la lista di tutte le richieste d&#39;amicizie in sospeso&amp;nbsp;&lt;br style=&quot;font-size: 19px;&quot;&gt;2. L&#39;utente quindi per declinare una richiesta preme sul tasto col simbolo &quot;X&quot;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="2140" y="320" width="655" height="440" as="geometry" />
+          <mxGeometry x="2147.5" y="560" width="655" height="440" as="geometry" />
         </mxCell>
         <mxCell id="kOb8IDNcDqG_YLjA2Kxv-1" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;1. L&#39;utente autenticato seleziona la barra di ricerca, ed inserisce il nome del film o della serie tv che vuole recensire&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;2. Il sistema mostra la lista di tutti i risultati compatibili con la chiave di ricerca [exception 1]&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;3. L&#39;utente seleziona il titolo che cercava&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;4. Il sistema quindi mostra una pagina dettagliata con tutte le informazioni disponibili riguardo l&#39;opera in questione (Titolo, anno di produzione, sinossi, locandina, durata, valutazione della community), scendendo nella pagina si può trovare anche l&#39;area adibita alle recensioni&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Exceptions&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;[exception 1] Se non vi sono titoli compatibili con la chiave di ricerca non viene visualizzata alcuna lista ma viene visualizzato un messaggio di notifica di &quot;indisponibilità di risultati compatibili&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="7290" y="3163.75" width="870" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-2" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-1" target="1wih5anYGObqjv8oycVJ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-1" value="premere il tasto per avviare la chat con l&#39;amico nella pagina dell&#39;utente amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1669.5" y="215" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-3" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2500" y="165" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2520" y="217" />
-              <mxPoint x="2520" y="165" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-4" value="premere il tasto per rifiutare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2564" y="205" width="146" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-5" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;dashed=1;" parent="1" source="pAfYyNeDYyBu8H6u1rMm-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -315,9 +254,6 @@
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-8" value="premere il tasto per accettare la richiesta d&#39;amicizia nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3609" y="1822.63" width="146" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-9" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;premere il tasto per avviare la chat con l&#39;amico nella pagina&lt;/span&gt;&lt;br&gt;di gestione amiczie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1706.5" y="65" width="156" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-13" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="1wih5anYGObqjv8oycVJ-25" target="pAfYyNeDYyBu8H6u1rMm-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -348,17 +284,14 @@
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-26" value="Descrizione use case &quot; &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot; &quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. &lt;br&gt;2. &lt;br&gt;[extension 1]&lt;br&gt;[exception 1]&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Exceptions&lt;br&gt;[exception 1]&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="7397.5" y="2763.75" width="655" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-27" value="Descrizione use case &quot;Avviare una chat con un amico&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Avviare una chat con un amico&quot;&lt;br&gt;Riassunto: Questo use case descrive come s&#39;inizia una chat con un utente amico&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. L&#39;utente avvia la chat con l&#39;utente amico mediante il tasto apposito [extension 1]&lt;br&gt;[extension 2]&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Extensions&lt;br style=&quot;font-size: 18px;&quot;&gt;[extension 1] Se l&#39;utente si trova nella pagina dell&#39; &quot;utente amico&quot; stesso può premere il tasto contenente il simbolo del messaggio per avviare la chat&amp;nbsp;&lt;br&gt;[extension 2] Se l&#39;utente si trova nella pagina delle proprie amicizie può premere sul tasto con il simbolo del messaggio&amp;nbsp;dell&#39; &quot;utente amico&quot;, presente accanto al nome utente." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1326.25" y="330" width="667.5" height="440" as="geometry" />
+        <mxCell id="pAfYyNeDYyBu8H6u1rMm-27" value="Descrizione use case &quot;Avviare una chat con un amico&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Avviare una chat con un amico&quot;&lt;br&gt;Riassunto: Questo use case descrive come s&#39;inizia una chat con un utente amico&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br&gt;1. Se l&#39;utente si trova nella pagina delle proprie amicizie può premere sul tasto con il simbolo del messaggio&amp;nbsp;dell&#39; &quot;utente amico&quot;, presente accanto al nome utente." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1278.75" y="330" width="667.5" height="320" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ibrandify-basic-essentials-icon-set/512/pen_stroke_sketch_doodle_lineart_127-128.png;fontSize=16;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1727" y="674" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pAfYyNeDYyBu8H6u1rMm-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ibrandify-basic-essentials-icon-set/512/pen_stroke_sketch_doodle_lineart_127-128.png;fontSize=16;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1457" y="718" width="28" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="pAfYyNeDYyBu8H6u1rMm-30" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;DA VEDERE MEGLIO&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="20" width="342.5" height="60" as="geometry" />
+          <mxGeometry x="1403.25" y="172" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="__B8ci54kG6Wg90A03j6-2" value="&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Exceptions&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[exception 1] Se non vi sono titoli compatibili con la chiave di ricerca non viene visualizzata alcuna lista ma viene visualizzato un messaggio di notifica di &quot;indisponibilità di risultati compatibili&quot;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7320" y="3400" width="560" height="110" as="geometry" />
@@ -425,67 +358,8 @@
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-12" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;selezione del titolo desiderato&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-11;" parent="1" vertex="1">
           <mxGeometry x="446.5" y="377.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-16" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-a32d5052-7fff-5144-e119-bdd53edb09ab&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Titolo&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Togliere film o serie tv dalle proprie liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Riassunto&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Questo use case descrive come avviene la rimozione dei contenuti alle liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Descrizione&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 1: l&#39;utente apre la pagina dedicata alla lista desiderata, tramite apposito widget;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 2: l’utente clicca sul pulsante “x” presente nell’angolo in alto a destra di ogni contenuto della lista per poter rimuovere un titolo dalla lista&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 11pt;&quot;&gt;[extension 1].&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Extensions&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- extension 1: Se il titolo che si vuole rimuovere dalla lista è una serie tv, è possibile selezionare fino a che stagione si vuole rimuovere;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1190.5" y="2051" width="690" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zeni_m9Vl_KFPvct1iLt-17" target="Zeni_m9Vl_KFPvct1iLt-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1399.5" y="1892.4126086956526" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-17" value="Utente Loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1310.5" y="1862.63" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-19" value="Rimuovere contenuti dalle proprie liste" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1437" y="1852.63" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Zeni_m9Vl_KFPvct1iLt-21" target="Zeni_m9Vl_KFPvct1iLt-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-21" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1440.5" y="1967.63" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-24" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Zeni_m9Vl_KFPvct1iLt-25" edge="1">
-          <mxGeometry x="-0.1333" y="-15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1557.5" y="1892.63" as="sourcePoint" />
-            <mxPoint x="1623.5" y="1917.38" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-25" value="Apertura della pagina della lista" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1642.5" y="1852.38" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-26" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;lt;include&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1557.5" y="1953.88" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=0.91;exitY=0.772;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Zeni_m9Vl_KFPvct1iLt-19" target="Zeni_m9Vl_KFPvct1iLt-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1544.926406871193" y="1920.6642712474618" as="sourcePoint" />
-            <mxPoint x="1673.5" y="1977.38" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1544.5" y="1977.63" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-28" value="Premere il tasto per aggiungere&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;con il simbolo &quot;x&quot; sul titolo d&#39;interesse&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1657.5" y="1937.63" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-30" value="RF24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1295.5" y="1800" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-31" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.966;entryY=0.313;entryDx=0;entryDy=0;fontSize=11;dashed=1;entryPerimeter=0;" parent="1" source="Zeni_m9Vl_KFPvct1iLt-32" target="Zeni_m9Vl_KFPvct1iLt-28" edge="1">
-          <mxGeometry x="0.1764" y="-15" relative="1" as="geometry">
-            <mxPoint x="1777.499999999995" y="1971" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1829.5" y="2030" />
-              <mxPoint x="1829.5" y="1963" />
-              <mxPoint x="1773.5" y="1963" />
-            </Array>
-            <mxPoint x="11" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Zeni_m9Vl_KFPvct1iLt-32" value="Se il titolo è una serie TV, rimuovere fino alla stagione desiderata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="1996" width="120" height="80" as="geometry" />
+        <mxCell id="Zeni_m9Vl_KFPvct1iLt-16" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-a32d5052-7fff-5144-e119-bdd53edb09ab&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Titolo&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Togliere film o serie tv dalle proprie liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Riassunto&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Questo use case descrive come avviene la rimozione dei contenuti alle liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Descrizione&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 1:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: rgb(248, 249, 250); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;l’utente clicca sul pulsante “x” presente nell’angolo in alto a destra di ogni contenuto della lista per poter rimuovere un titolo dalla lista&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Arial; font-size: 11pt;&quot;&gt;[extension 1].&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Extensions&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- extension 1: Se il titolo che si vuole rimuovere dalla lista è una serie tv, è possibile selezionare fino a che stagione si vuole rimuovere;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="1282.5" y="1283.75" width="690" height="350" as="geometry" />
         </mxCell>
         <mxCell id="pMe9H8-gj87re6RoHKMX-1" value="RF19 - avviare chat con amico" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1140" width="120" height="60" as="geometry" />
@@ -1218,24 +1092,24 @@
           <mxGeometry x="854" y="3280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-45" value="RF19 - avviare chat con amico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1326.25" y="718" width="120" height="60" as="geometry" />
+          <mxGeometry x="1272.5" y="172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-46" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1484.75" y="749" width="30" height="60" as="geometry" />
+          <mxGeometry x="1431" y="203" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-47" value="Avviare la chat &lt;br&gt;con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1584.75" y="749" width="120" height="60" as="geometry" />
+          <mxGeometry x="1531" y="203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-48" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1629.75" y="859" width="30" height="60" as="geometry" />
+          <mxGeometry x="1576" y="313" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-49" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;nella pagina di gestione &lt;br&gt;delle amicizie, premere l&#39;icona a forma di messaggio, vicino all&#39;username dell&#39;utente desiderato&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1808.75" y="734" width="167.5" height="94" as="geometry" />
+          <mxGeometry x="1755" y="188" width="167.5" height="94" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-50" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1704.75" y="778.8699999999999" as="sourcePoint" />
-            <mxPoint x="1804.75" y="778.8699999999999" as="targetPoint" />
+            <mxPoint x="1651" y="232.8699999999999" as="sourcePoint" />
+            <mxPoint x="1751" y="232.8699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-51" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-50">
@@ -1243,32 +1117,32 @@
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-46" target="clMWLkqwr1al6dAaRuHI-47" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1506.25" y="778" as="sourcePoint" />
-            <mxPoint x="1576.25" y="778" as="targetPoint" />
+            <mxPoint x="1452.5" y="232" as="sourcePoint" />
+            <mxPoint x="1522.5" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-47" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1645.25" y="808" as="sourcePoint" />
-            <mxPoint x="1644.8200000000002" y="857.0900000000001" as="targetPoint" />
+            <mxPoint x="1591.5" y="262" as="sourcePoint" />
+            <mxPoint x="1591.0700000000002" y="311.09000000000015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-54" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1452.5" y="1270" width="30" height="60" as="geometry" />
+          <mxGeometry x="1381.25" y="621" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-55" value="Avviare la chat &lt;br&gt;con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1552.5" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1481.25" y="621" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-56" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1597.5" y="1380" width="30" height="60" as="geometry" />
+          <mxGeometry x="1526.25" y="731" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-57" value="nella pagina dell&#39; amico, premere il tasto &quot;Invia messaggio&quot;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1776.5" y="1253" width="167.5" height="94" as="geometry" />
+          <mxGeometry x="1705.25" y="604" width="167.5" height="94" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-58" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1672.5" y="1297.87" as="sourcePoint" />
-            <mxPoint x="1772.5" y="1297.87" as="targetPoint" />
+            <mxPoint x="1601.25" y="648.8699999999999" as="sourcePoint" />
+            <mxPoint x="1701.25" y="648.8699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-59" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-58">
@@ -1276,83 +1150,83 @@
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-54" target="clMWLkqwr1al6dAaRuHI-55" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1474" y="1299" as="sourcePoint" />
-            <mxPoint x="1544" y="1299" as="targetPoint" />
+            <mxPoint x="1402.75" y="650" as="sourcePoint" />
+            <mxPoint x="1472.75" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-55" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1613" y="1329" as="sourcePoint" />
-            <mxPoint x="1612.5700000000002" y="1378.0900000000001" as="targetPoint" />
+            <mxPoint x="1541.75" y="680" as="sourcePoint" />
+            <mxPoint x="1541.3200000000002" y="729.0900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-62" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1673" y="2439.75" as="sourcePoint" />
-            <mxPoint x="1748.5" y="2440" as="targetPoint" />
+            <mxPoint x="1695.5" y="1159.75" as="sourcePoint" />
+            <mxPoint x="1771" y="1160" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-63" value="premere il tasto&lt;br&gt;con il simbolo &quot;x&quot;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1748.5" y="2400" width="120" height="80" as="geometry" />
+          <mxGeometry x="1771" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-64" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" edge="1" parent="1">
           <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
-            <mxPoint x="1806" y="2555" as="sourcePoint" />
-            <mxPoint x="1806" y="2480" as="targetPoint" />
+            <mxPoint x="1828.5" y="1275" as="sourcePoint" />
+            <mxPoint x="1828.5" y="1200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1806" y="2555" />
+              <mxPoint x="1828.5" y="1275" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-65" value="Se il titolo è una serie TV, rimuovere fino alla stagione desiderata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" vertex="1" parent="1">
-          <mxGeometry x="1748.5" y="2555" width="120" height="80" as="geometry" />
+          <mxGeometry x="1771" y="1275" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-66" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1448" y="2410" width="30" height="60" as="geometry" />
+          <mxGeometry x="1470.5" y="1130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-67" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Rimuovere contenuti dalle proprie liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1543" y="2405" width="130" height="70" as="geometry" />
+          <mxGeometry x="1565.5" y="1125" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-68" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1593" y="2520" width="30" height="60" as="geometry" />
+          <mxGeometry x="1615.5" y="1240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-69" value="RF24 - rimuovere&amp;nbsp;contenuto dalla ls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295.5" y="2415" width="120" height="60" as="geometry" />
+          <mxGeometry x="1318" y="1135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1473" y="2439.58" as="sourcePoint" />
-            <mxPoint x="1542.999999999999" y="2439.58" as="targetPoint" />
+            <mxPoint x="1495.5" y="1159.58" as="sourcePoint" />
+            <mxPoint x="1565.499999999999" y="1159.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1607.63" y="2475" as="sourcePoint" />
-            <mxPoint x="1607.58" y="2521.1700000000005" as="targetPoint" />
+            <mxPoint x="1630.13" y="1195" as="sourcePoint" />
+            <mxPoint x="1630.08" y="1241.1700000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-72" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2307.25" y="769" width="30" height="60" as="geometry" />
+          <mxGeometry x="2300" y="450" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-73" value="&lt;span style=&quot;font-family: Arial;&quot;&gt;Declinare una richiesta di amicizia di un altro utente,&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2402.25" y="764" width="130" height="70" as="geometry" />
+          <mxGeometry x="2395" y="445" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-74" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2452.25" y="879" width="30" height="60" as="geometry" />
+          <mxGeometry x="2445" y="560" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-75" value="premere il tasto a forma di &quot;x&quot; nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2634.25" y="749" width="146" height="100" as="geometry" />
+          <mxGeometry x="2627" y="430" width="146" height="100" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-76" value="RF21 - declinare richiesta amicizia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2154.75" y="774" width="120" height="60" as="geometry" />
+          <mxGeometry x="2147.5" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-77" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2532.25" y="798.5799999999999" as="sourcePoint" />
-            <mxPoint x="2632.25" y="798.5799999999999" as="targetPoint" />
+            <mxPoint x="2525" y="479.5799999999999" as="sourcePoint" />
+            <mxPoint x="2625" y="479.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-78" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-77">
@@ -1360,14 +1234,14 @@
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2332.25" y="798.5799999999999" as="sourcePoint" />
-            <mxPoint x="2402.249999999999" y="798.5799999999999" as="targetPoint" />
+            <mxPoint x="2325" y="479.5799999999999" as="sourcePoint" />
+            <mxPoint x="2394.999999999999" y="479.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2466.88" y="834" as="sourcePoint" />
-            <mxPoint x="2466.83" y="880.1700000000001" as="targetPoint" />
+            <mxPoint x="2459.63" y="515" as="sourcePoint" />
+            <mxPoint x="2459.58" y="561.1700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-81" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -1498,6 +1372,9 @@
             <mxPoint x="3526.88" y="2367.63" as="sourcePoint" />
             <mxPoint x="3526.83" y="2413.8" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="clMWLkqwr1al6dAaRuHI-112" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Descrizione use case &quot;Avviare una chat con un amico&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Titolo: &quot;Avviare una chat con un amico&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Riassunto: Questo use case descrive come s&#39;inizia una chat con un utente amico&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Descrizione:&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Se l&#39;utente si trova nella pagina dell&#39; &quot;utente amico&quot; stesso può premere il tasto contenente il simbolo del messaggio per avviare la chat&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1332.5" y="780" width="590" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
