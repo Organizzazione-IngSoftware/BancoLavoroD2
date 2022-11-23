@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T13:47:27.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TLJKdvLJOgsXH8x4je9t" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T13:55:16.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HrN0pCXlT9wcxcyYbGJd" version="20.5.3" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="2966" dy="2831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zF8RVWHiWDD329vGnWzC-1" value="Descrizione use case &quot;Declinare una richiesta d&#39;amicizia&quot;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;Titolo: &quot;Declinare una richiesta d&#39;amicizia&quot;&lt;br style=&quot;font-size: 19px;&quot;&gt;Riassunto: Questo use case descrive come avviene la declinazione di una richiesta d&#39;amicizia&amp;nbsp;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 19px;&quot;&gt;1. Nella pagina della gestione delle amicizie dell&#39;utente loggato viene visualizzata a schermo la lista di tutte le richieste d&#39;amicizie in sospeso&amp;nbsp;&lt;br style=&quot;font-size: 19px;&quot;&gt;2. L&#39;utente quindi per declinare una richiesta preme sul tasto col simbolo &quot;X&quot;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="2147.5" y="560" width="655" height="440" as="geometry" />
+          <mxGeometry x="2117.5" y="282.5" width="655" height="440" as="geometry" />
         </mxCell>
         <mxCell id="kOb8IDNcDqG_YLjA2Kxv-1" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;1. L&#39;utente autenticato seleziona la barra di ricerca, ed inserisce il nome del film o della serie tv che vuole recensire&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;2. Il sistema mostra la lista di tutti i risultati compatibili con la chiave di ricerca [exception 1]&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;3. L&#39;utente seleziona il titolo che cercava&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;4. Il sistema quindi mostra una pagina dettagliata con tutte le informazioni disponibili riguardo l&#39;opera in questione (Titolo, anno di produzione, sinossi, locandina, durata, valutazione della community), scendendo nella pagina si può trovare anche l&#39;area adibita alle recensioni&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Exceptions&lt;/span&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;[exception 1] Se non vi sono titoli compatibili con la chiave di ricerca non viene visualizzata alcuna lista ma viene visualizzato un messaggio di notifica di &quot;indisponibilità di risultati compatibili&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="7290" y="3163.75" width="870" height="70" as="geometry" />
@@ -296,42 +296,8 @@
         <mxCell id="__B8ci54kG6Wg90A03j6-2" value="&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Exceptions&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[exception 1] Se non vi sono titoli compatibili con la chiave di ricerca non viene visualizzata alcuna lista ma viene visualizzato un messaggio di notifica di &quot;indisponibilità di risultati compatibili&quot;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7320" y="3400" width="560" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="__B8ci54kG6Wg90A03j6-3" target="__B8ci54kG6Wg90A03j6-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-3" value="Utente Loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2271" y="1740.13" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-4" value="Riordina liste" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2392.5" y="1730.13" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="__B8ci54kG6Wg90A03j6-6" target="__B8ci54kG6Wg90A03j6-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-6" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2437.5" y="1860.13" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-9" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="__B8ci54kG6Wg90A03j6-8" target="__B8ci54kG6Wg90A03j6-4" edge="1">
-          <mxGeometry x="0.0323" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-8" value="Seleziona e visualizza lista con i contenuti espansi" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2630" y="1730.13" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-11" value="&amp;lt;includes&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="__B8ci54kG6Wg90A03j6-10" target="__B8ci54kG6Wg90A03j6-4" edge="1">
-          <mxGeometry x="-0.1579" y="-10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-10" value="Drag&amp;amp;Drop sui titoli presenti nella lista" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2667" y="1830.13" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-12" value="Descrizione use case &quot;Riordinare liste&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Riordinare liste&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive come l&#39;utente può riordinare le proprie liste&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1.Nella propria pagina personale l&#39;utente loggato preme sul widget contenente la lista desiderata&lt;br&gt;2.Viene visualizzata la lista espansa con tutti i titoli presenti&lt;br&gt;3. Tramite Drag&amp;amp;Drop l&#39;utente può riordinare i titoli che gli interessano&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="1950.13" width="655" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="__B8ci54kG6Wg90A03j6-13" value="RF25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2261" y="1695.13" width="50" height="30" as="geometry" />
+        <mxCell id="__B8ci54kG6Wg90A03j6-12" value="Descrizione use case &quot;Riordinare liste&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Titolo: &quot;Riordinare liste&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Riassunto: Questo use case descrive come l&#39;utente può riordinare le proprie liste&amp;nbsp;&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Descrizione:&lt;br style=&quot;font-size: 18px;&quot;&gt;1. L&#39;utente tiene cliccato sul contenuto che gli interessa all&#39;interno della lista che desidera riordinare&amp;nbsp;&lt;br&gt;2. Trascina il mouse fino alla posizione desiderata&lt;br&gt;3. rilascia il mouse." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2116.5" y="884.5" width="655" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Zeni_m9Vl_KFPvct1iLt-3" value="Ricerca del contenuto specifico&amp;nbsp;&lt;br style=&quot;font-size: 12px;&quot;&gt;[RF2]&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="237.5" width="161" height="70" as="geometry" />
@@ -1209,24 +1175,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-72" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="450" width="30" height="60" as="geometry" />
+          <mxGeometry x="2270" y="172.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-73" value="&lt;span style=&quot;font-family: Arial;&quot;&gt;Declinare una richiesta di amicizia di un altro utente,&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2395" y="445" width="130" height="70" as="geometry" />
+          <mxGeometry x="2365" y="167.5" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-74" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2445" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="2415" y="282.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-75" value="premere il tasto a forma di &quot;x&quot; nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2627" y="430" width="146" height="100" as="geometry" />
+          <mxGeometry x="2597" y="152.5" width="146" height="100" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-76" value="RF21 - declinare richiesta amicizia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2147.5" y="455" width="120" height="60" as="geometry" />
+          <mxGeometry x="2117.5" y="177.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-77" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2525" y="479.5799999999999" as="sourcePoint" />
-            <mxPoint x="2625" y="479.5799999999999" as="targetPoint" />
+            <mxPoint x="2495" y="202.07999999999993" as="sourcePoint" />
+            <mxPoint x="2595" y="202.07999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-78" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-77">
@@ -1234,72 +1200,72 @@
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2325" y="479.5799999999999" as="sourcePoint" />
-            <mxPoint x="2394.999999999999" y="479.5799999999999" as="targetPoint" />
+            <mxPoint x="2295" y="202.07999999999993" as="sourcePoint" />
+            <mxPoint x="2364.999999999999" y="202.07999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2459.63" y="515" as="sourcePoint" />
-            <mxPoint x="2459.58" y="561.1700000000001" as="targetPoint" />
+            <mxPoint x="2429.63" y="237.5" as="sourcePoint" />
+            <mxPoint x="2429.58" y="283.6700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-81" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2427.5" y="2346.63" as="sourcePoint" />
-            <mxPoint x="2503" y="2346.88" as="targetPoint" />
+            <mxPoint x="2367.5" y="786" as="sourcePoint" />
+            <mxPoint x="2443" y="786.25" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-82" value="cliccare sul contenuto che si desidera spostare" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="2503" y="2306.88" width="120" height="80" as="geometry" />
+          <mxGeometry x="2443" y="746.25" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-83" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2202.5" y="2316.88" width="30" height="60" as="geometry" />
+          <mxGeometry x="2142.5" y="756.25" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-84" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Riordinare i contenuti delle proprie liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2297.5" y="2311.88" width="130" height="70" as="geometry" />
+          <mxGeometry x="2237.5" y="751.25" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-85" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2347.5" y="2426.88" width="30" height="60" as="geometry" />
+          <mxGeometry x="2287.5" y="866.25" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-86" value="RF25 - riordinare contenuto della ls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="2321.88" width="120" height="60" as="geometry" />
+          <mxGeometry x="1990" y="761.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-87" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2227.5" y="2346.46" as="sourcePoint" />
-            <mxPoint x="2297.499999999999" y="2346.46" as="targetPoint" />
+            <mxPoint x="2167.5" y="785.8299999999999" as="sourcePoint" />
+            <mxPoint x="2237.499999999999" y="785.8299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2362.13" y="2381.88" as="sourcePoint" />
-            <mxPoint x="2362.08" y="2428.0500000000006" as="targetPoint" />
+            <mxPoint x="2302.13" y="821.25" as="sourcePoint" />
+            <mxPoint x="2302.08" y="867.4200000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-89" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2623" y="2346.63" as="sourcePoint" />
-            <mxPoint x="2698.5" y="2346.88" as="targetPoint" />
+            <mxPoint x="2563" y="786" as="sourcePoint" />
+            <mxPoint x="2638.5" y="786.25" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-90" value="trascinare il contenuto fino alla posizione desiderata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="2697.5" y="2300.63" width="120" height="92.5" as="geometry" />
+          <mxGeometry x="2637.5" y="740" width="120" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-91" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2817.5" y="2346.63" as="sourcePoint" />
-            <mxPoint x="2893" y="2346.88" as="targetPoint" />
+            <mxPoint x="2757.5" y="786" as="sourcePoint" />
+            <mxPoint x="2833" y="786.25" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-92" value="rilasciare il mouse" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="2892" y="2300.63" width="120" height="92.5" as="geometry" />
+          <mxGeometry x="2832" y="740" width="120" height="92.5" as="geometry" />
         </mxCell>
         <mxCell id="clMWLkqwr1al6dAaRuHI-94" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="3207.25" y="790" width="30" height="60" as="geometry" />
