@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T14:26:28.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4zBXH8O4oIlmXhMhFM3i" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T17:06:23.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vJE8fmQEdoBFbmys5Ax4" version="20.6.0" type="github">
   <diagram id="81YKw9q4GNLHb_K-PtRn" name="Pagina-1">
-    <mxGraphModel dx="20760" dy="13020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="2552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,7 +706,7 @@
         <mxCell id="4HUTW4nooDyAYj2t6DRU-158" value="ok" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2940" y="-805" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-1" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-1" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3673" y="999.75" as="sourcePoint" />
             <mxPoint x="3748.5" y="1000" as="targetPoint" />
@@ -714,10 +714,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-2" value="premere il tasto&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;con il simbolo &quot;+&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-2" value="premere il tasto&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;con il simbolo &quot;+&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="3748.5" y="960" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-3" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-3" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" parent="1" edge="1">
           <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
             <mxPoint x="3996" y="1115" as="sourcePoint" />
@@ -727,34 +727,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-4" value="&#xa;&lt;b id=&quot;docs-internal-guid-865f4cf7-7fff-0287-a66b-7ed743ccb24a&quot; style=&quot;font-weight: normal; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;La ricerca di un contenuto per la top10 è automaticamente filtrata tra la lista dei titolo già visti&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-4" value="&#xa;&lt;b id=&quot;docs-internal-guid-865f4cf7-7fff-0287-a66b-7ed743ccb24a&quot; style=&quot;font-weight: normal; font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;La ricerca di un contenuto per la top10 è automaticamente filtrata tra la lista dei titolo già visti&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" parent="1" vertex="1">
           <mxGeometry x="3938.5" y="1115" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-5" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-5" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3448" y="970" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Aggiungere titolo alle liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Aggiungere titolo alle liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="3543" y="965" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-7" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-7" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3593" y="1080" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-8" value="RF23 - aggiungere contenuto alla ls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-8" value="RF23 - aggiungere contenuto alla ls" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3295.5" y="975" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3473" y="999.5799999999999" as="sourcePoint" />
             <mxPoint x="3542.999999999999" y="999.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3607.63" y="1035" as="sourcePoint" />
             <mxPoint x="3607.58" y="1081.1700000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-11" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-11" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3868.5" y="1000" as="sourcePoint" />
             <mxPoint x="3928.5" y="1000" as="targetPoint" />
@@ -764,10 +764,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ricerca del contenuto specifico&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;[RF2]&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ricerca del contenuto specifico&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;[RF2]&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="3928.5" y="960" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-13" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-13" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4058.5" y="1000" as="sourcePoint" />
             <mxPoint x="4118.5" y="1000" as="targetPoint" />
@@ -777,10 +777,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;selezionare il titolo desiderato&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;selezionare il titolo desiderato&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="4118.5" y="960" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-15" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-15" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" parent="1" edge="1">
           <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
             <mxPoint x="4188.5" y="1115" as="sourcePoint" />
@@ -790,74 +790,74 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-16" value="Se il titolo è una serie TV, aggiungere fino alla stagione vista" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-16" value="Se il titolo è una serie TV, aggiungere fino alla stagione vista" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4128.5" y="1115" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-17" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-17" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3646" y="1559.75" as="sourcePoint" />
-            <mxPoint x="3721.5" y="1560" as="targetPoint" />
+            <mxPoint x="3637.5" y="1759.75" as="sourcePoint" />
+            <mxPoint x="3713" y="1760" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;se si è nella pagina del titolo specifico, tramite tasto apposito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;docs-internal-guid-d5b39ab0-7fff-187c-286a-ad6ce57e3864&quot;&gt;&lt;span style=&quot;font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;con la scritta &quot;Aggiungi alla lista&quot; o &quot;Visualizza in futuro&quot;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="3721.5" y="1510" width="244.5" height="100" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;se si è nella pagina del titolo specifico, tramite tasto apposito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;docs-internal-guid-d5b39ab0-7fff-187c-286a-ad6ce57e3864&quot;&gt;&lt;span style=&quot;font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;con la scritta &quot;Aggiungi alla lista&quot; o &quot;Visualizza in futuro&quot;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="3713" y="1710" width="244.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-19" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="3415.5" y="1540" width="30" height="60" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-19" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="3407" y="1740" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Aggiungere titolo alle liste dei contenuti già visti o da vedere in futuro&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="3510.5" y="1520" width="135.5" height="85" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Aggiungere titolo alle liste dei contenuti già visti o da vedere in futuro&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="3502" y="1720" width="135.5" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-21" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3560.5" y="1650" width="30" height="60" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-21" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3552" y="1850" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3440.5" y="1569.58" as="sourcePoint" />
-            <mxPoint x="3510.499999999999" y="1569.58" as="targetPoint" />
+            <mxPoint x="3432" y="1769.58" as="sourcePoint" />
+            <mxPoint x="3501.999999999999" y="1769.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3575.13" y="1605" as="sourcePoint" />
-            <mxPoint x="3575.08" y="1651.1700000000005" as="targetPoint" />
+            <mxPoint x="3566.63" y="1805" as="sourcePoint" />
+            <mxPoint x="3566.58" y="1851.1700000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-24" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-24" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3625.5" y="2246.25" as="sourcePoint" />
-            <mxPoint x="3701" y="2246.5" as="targetPoint" />
+            <mxPoint x="3608.5" y="2537.25" as="sourcePoint" />
+            <mxPoint x="3684" y="2537.5" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-25" value="&lt;span style=&quot;font-size: 12px;&quot; id=&quot;docs-internal-guid-c792015d-7fff-e652-3b1b-59c4313aa883&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;se ci si trova nella pagina della lista dei contenuti già guardati, cliccare sul tasto “Aggiungi alla top10” ? dove?&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="3701" y="2189" width="244.5" height="120" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-25" value="&lt;span style=&quot;font-size: 12px;&quot; id=&quot;docs-internal-guid-c792015d-7fff-e652-3b1b-59c4313aa883&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;se ci si trova nella pagina della lista dei contenuti già guardati, cliccare sul tasto “Aggiungi alla top10” ? dove?&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="3684" y="2480" width="244.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-26" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="3395" y="2226.5" width="30" height="60" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-26" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="3378" y="2517.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-27" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Aggiungere titolo alla lista della top10&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="3490" y="2206.5" width="135.5" height="85" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-27" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Aggiungere titolo alla lista della top10&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="3473" y="2497.5" width="135.5" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-28" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3540" y="2336.5" width="30" height="60" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-28" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3523" y="2627.5" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3420" y="2256.08" as="sourcePoint" />
-            <mxPoint x="3489.999999999999" y="2256.08" as="targetPoint" />
+            <mxPoint x="3403" y="2547.08" as="sourcePoint" />
+            <mxPoint x="3472.999999999999" y="2547.08" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3554.63" y="2291.5" as="sourcePoint" />
-            <mxPoint x="3554.58" y="2337.67" as="targetPoint" />
+            <mxPoint x="3537.63" y="2582.5" as="sourcePoint" />
+            <mxPoint x="3537.58" y="2628.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-31" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-31" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6570.5" y="979.75" as="sourcePoint" />
             <mxPoint x="6646" y="980" as="targetPoint" />
@@ -865,10 +865,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-32" value="premere il tasto&lt;br&gt;con il simbolo &quot;+&quot;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-32" value="premere il tasto&lt;br&gt;con il simbolo &quot;+&quot;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="6646" y="940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-33" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-33" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" parent="1" edge="1">
           <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
             <mxPoint x="6901.5" y="1097.5" as="sourcePoint" />
@@ -878,34 +878,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-34" value="Scrivere un breve testo per recensire l&#39;opera" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-34" value="Scrivere un breve testo per recensire l&#39;opera" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" parent="1" vertex="1">
           <mxGeometry x="6844" y="1097.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-35" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-35" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="6345.5" y="950" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-36" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Assegnare un voto ad un contenuto&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-36" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Assegnare un voto ad un contenuto&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="6440.5" y="945" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-37" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-37" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="6490.5" y="1060" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-38" value="RF26 e RF27 - valutare e/o recensire un contenuto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-38" value="RF26 e RF27 - valutare e/o recensire un contenuto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6193" y="955" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6370.5" y="979.5799999999999" as="sourcePoint" />
             <mxPoint x="6440.499999999999" y="979.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6505.129999999999" y="1015" as="sourcePoint" />
             <mxPoint x="6505.08" y="1061.1700000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-41" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-41" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6766" y="979.75" as="sourcePoint" />
             <mxPoint x="6841.5" y="980" as="targetPoint" />
@@ -913,10 +913,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-42" value="assegnare un voto da 1 a 5 stelle" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-42" value="assegnare un voto da 1 a 5 stelle" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="6841.5" y="940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-43" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-43" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6961.5" y="979.75" as="sourcePoint" />
             <mxPoint x="7037" y="980" as="targetPoint" />
@@ -924,79 +924,79 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-44" value="cliccare su &quot;Pubblica&quot;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-44" value="cliccare su &quot;Pubblica&quot;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="7037" y="940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-45" value="RF19 - avviare chat con amico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-45" value="RF19 - avviare chat con amico" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-46" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-46" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="198.5" y="1071" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-47" value="Avviare la chat &lt;br&gt;con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-47" value="Avviare la chat &lt;br&gt;con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="298.5" y="1071" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-48" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-48" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="1181" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-49" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;nella pagina di gestione &lt;br&gt;delle amicizie, premere l&#39;icona a forma di messaggio, vicino all&#39;username dell&#39;utente desiderato&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-49" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;nella pagina di gestione &lt;br&gt;delle amicizie, premere l&#39;icona a forma di messaggio, vicino all&#39;username dell&#39;utente desiderato&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="522.5" y="1056" width="167.5" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-50" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-50" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="418.5" y="1100.87" as="sourcePoint" />
             <mxPoint x="518.5" y="1100.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-51" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-50">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-51" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="clMWLkqwr1al6dAaRuHI-50" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-46" target="clMWLkqwr1al6dAaRuHI-47" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="clMWLkqwr1al6dAaRuHI-46" target="clMWLkqwr1al6dAaRuHI-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="1100" as="sourcePoint" />
             <mxPoint x="290" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-47" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="clMWLkqwr1al6dAaRuHI-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="359" y="1130" as="sourcePoint" />
             <mxPoint x="358.57000000000016" y="1179.0900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-54" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-54" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="148.75" y="1489" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-55" value="Avviare la chat &lt;br&gt;con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-55" value="Avviare la chat &lt;br&gt;con un amico" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="248.75" y="1489" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-56" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-56" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="293.75" y="1599" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-57" value="nella pagina dell&#39; amico, premere il tasto &quot;Invia messaggio&quot;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-57" value="nella pagina dell&#39; amico, premere il tasto &quot;Invia messaggio&quot;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="472.75" y="1472" width="167.5" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-58" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-58" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="368.75" y="1516.87" as="sourcePoint" />
             <mxPoint x="468.75" y="1516.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-59" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-58">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-59" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="clMWLkqwr1al6dAaRuHI-58" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-54" target="clMWLkqwr1al6dAaRuHI-55" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="clMWLkqwr1al6dAaRuHI-54" target="clMWLkqwr1al6dAaRuHI-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170.25" y="1518" as="sourcePoint" />
             <mxPoint x="240.25" y="1518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="clMWLkqwr1al6dAaRuHI-55" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="clMWLkqwr1al6dAaRuHI-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="309.25" y="1548" as="sourcePoint" />
             <mxPoint x="308.82000000000016" y="1597.0900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-62" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-62" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4768.5" y="989.75" as="sourcePoint" />
             <mxPoint x="4844" y="990" as="targetPoint" />
@@ -1004,10 +1004,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-63" value="premere il tasto&lt;br&gt;con il simbolo &quot;x&quot;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-63" value="premere il tasto&lt;br&gt;con il simbolo &quot;x&quot;" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="4844" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-64" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-64" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;" parent="1" edge="1">
           <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
             <mxPoint x="4901.5" y="1105" as="sourcePoint" />
@@ -1017,70 +1017,70 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-65" value="Se il titolo è una serie TV, rimuovere fino alla stagione desiderata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-65" value="Se il titolo è una serie TV, rimuovere fino alla stagione desiderata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;spacingBottom=-10;" parent="1" vertex="1">
           <mxGeometry x="4844" y="1105" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-66" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-66" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="4543.5" y="960" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-67" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Rimuovere contenuti dalle proprie liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-67" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Rimuovere contenuti dalle proprie liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="4638.5" y="955" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-68" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-68" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4688.5" y="1070" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-69" value="RF24 - rimuovere&amp;nbsp;contenuto dalla ls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-69" value="RF24 - rimuovere&amp;nbsp;contenuto dalla ls" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4391" y="965" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4568.5" y="989.5799999999999" as="sourcePoint" />
             <mxPoint x="4638.499999999999" y="989.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4703.13" y="1025" as="sourcePoint" />
             <mxPoint x="4703.08" y="1071.1700000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-72" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-72" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1928" y="1016" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-73" value="&lt;span style=&quot;font-family: Arial;&quot;&gt;Declinare una richiesta di amicizia di un altro utente,&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-73" value="&lt;span style=&quot;font-family: Arial;&quot;&gt;Declinare una richiesta di amicizia di un altro utente,&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="2023" y="1011" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-74" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-74" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2073" y="1126" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-75" value="premere il tasto a forma di &quot;x&quot; nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-75" value="premere il tasto a forma di &quot;x&quot; nella pagina della gestione amicizie" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2255" y="996" width="146" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-76" value="RF21 - declinare richiesta amicizia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-76" value="RF21 - declinare richiesta amicizia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1775.5" y="1021" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-77" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-77" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2153" y="1045.58" as="sourcePoint" />
             <mxPoint x="2253" y="1045.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-78" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-77">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-78" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="clMWLkqwr1al6dAaRuHI-77" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1953" y="1045.58" as="sourcePoint" />
             <mxPoint x="2022.999999999999" y="1045.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2087.63" y="1081" as="sourcePoint" />
             <mxPoint x="2087.58" y="1127.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-81" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-81" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5513" y="996" as="sourcePoint" />
             <mxPoint x="5588.5" y="996.25" as="targetPoint" />
@@ -1088,34 +1088,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-82" value="cliccare sul contenuto che si desidera spostare" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-82" value="cliccare sul contenuto che si desidera spostare" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="5588.5" y="956.25" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-83" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-83" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="5288" y="966.25" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-84" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Riordinare i contenuti delle proprie liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-84" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Riordinare i contenuti delle proprie liste&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="5383" y="961.25" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-85" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-85" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5433" y="1076.25" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-86" value="RF25 - riordinare contenuto della ls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-86" value="RF25 - riordinare contenuto della ls" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5135.5" y="971.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-87" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-87" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5313" y="995.8299999999999" as="sourcePoint" />
             <mxPoint x="5382.999999999999" y="995.8299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5447.63" y="1031.25" as="sourcePoint" />
             <mxPoint x="5447.58" y="1077.4200000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-89" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-89" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5708.5" y="996" as="sourcePoint" />
             <mxPoint x="5784" y="996.25" as="targetPoint" />
@@ -1123,10 +1123,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-90" value="trascinare il contenuto fino alla posizione desiderata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-90" value="trascinare il contenuto fino alla posizione desiderata" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="5783" y="950" width="120" height="92.5" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-91" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-91" value="&amp;lt;include&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry x="-0.0431" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5903" y="996" as="sourcePoint" />
             <mxPoint x="5978.5" y="996.25" as="targetPoint" />
@@ -1134,86 +1134,92 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-92" value="rilasciare il mouse" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-92" value="rilasciare il mouse" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="5977.5" y="950" width="120" height="92.5" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-94" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-94" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2668" y="990" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-95" value="&lt;span style=&quot;font-family: Arial;&quot;&gt;Togliere l&#39;amicizia ad un utente della propria lista amici&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-95" value="&lt;span style=&quot;font-family: Arial;&quot;&gt;Togliere l&#39;amicizia ad un utente della propria lista amici&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="2763" y="985" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-96" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-96" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2813" y="1100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-97" value="nella lista degli amici, premere il tasto &quot;Rimuovi&quot;, sotto lo username desiderato&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-97" value="nella lista degli amici, premere il tasto &quot;Rimuovi&quot;, sotto lo username desiderato&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2995" y="970" width="146" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-98" value="RF22&amp;nbsp;- togliere l&#39;amicizia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-98" value="RF22&amp;nbsp;- togliere l&#39;amicizia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2515.5" y="995" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-99" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-99" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2893.0000000000005" y="1019.5799999999999" as="sourcePoint" />
             <mxPoint x="2993.0000000000005" y="1019.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-100" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-99">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-100" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="clMWLkqwr1al6dAaRuHI-99" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2693.0000000000005" y="1019.5799999999999" as="sourcePoint" />
             <mxPoint x="2762.999999999999" y="1019.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-102" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-102" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2827.63" y="1054.9999999999995" as="sourcePoint" />
             <mxPoint x="2827.58" y="1101.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-103" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-103" value="Utente loggato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1079.25" y="1040" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-104" value="&lt;span id=&quot;docs-internal-guid-90a9fb47-7fff-066e-2d43-c7900120a454&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Accettare la richiesta di amicizia di un altro utente&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-104" value="&lt;span id=&quot;docs-internal-guid-90a9fb47-7fff-066e-2d43-c7900120a454&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Accettare la richiesta di amicizia di un altro utente&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1174.25" y="1035" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-105" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-105" value="MongoDB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1224.25" y="1150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-106" value="nella pagina di gestione&lt;br&gt;delle amicizie, premere il tasto a forma di spunta verde&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-106" value="nella pagina di gestione&lt;br&gt;delle amicizie, premere il tasto a forma di spunta verde&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1406.25" y="1020" width="146" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-107" value="RF20 - accettare richiesta amicizia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-107" value="RF20 - accettare richiesta amicizia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="926.75" y="1045" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-108" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-108" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1304.2499999999995" y="1069.58" as="sourcePoint" />
             <mxPoint x="1404.2500000000005" y="1069.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-109" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="clMWLkqwr1al6dAaRuHI-108">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-109" value="&amp;lt;include&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="clMWLkqwr1al6dAaRuHI-108" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-110" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-110" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1104.2499999999995" y="1069.58" as="sourcePoint" />
             <mxPoint x="1174.249999999999" y="1069.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-111" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-111" value="" style="endArrow=none;html=1;rounded=0;exitX=0.501;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1238.88" y="1105" as="sourcePoint" />
             <mxPoint x="1238.83" y="1151.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-112" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Descrizione use case &quot;Avviare una chat con un amico&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Titolo: &quot;Avviare una chat con un amico&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Riassunto: Questo use case descrive come s&#39;inizia una chat con un utente amico&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Descrizione:&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Se l&#39;utente si trova nella pagina dell&#39; &quot;utente amico&quot; stesso può premere il tasto contenente il simbolo del messaggio per avviare la chat&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="clMWLkqwr1al6dAaRuHI-112" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Descrizione use case &quot;Avviare una chat con un amico&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Titolo: &quot;Avviare una chat con un amico&quot;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Riassunto: Questo use case descrive come s&#39;inizia una chat con un utente amico&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Descrizione:&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Se l&#39;utente si trova nella pagina dell&#39; &quot;utente amico&quot; stesso può premere il tasto contenente il simbolo del messaggio per avviare la chat&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="1648" width="590" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="clMWLkqwr1al6dAaRuHI-113" value="&#xa;&lt;b id=&quot;docs-internal-guid-8832ff7d-7fff-4561-34a8-9b71825dbb9a&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Titolo&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Aggiungere film o serie tv alle proprie liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Riassunto&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Questo use case descrive come avviene l&#39;aggiunta dei contenuti alle liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Descrizione&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 1: l’utente clicca sul pulsante “+” per aggiungere un nuovo contenuto alla lista[extension 1][extension 2];&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 2: si apre una barra di ricerca in cui è possibile ricercare un contenuto specifico tramite le modalità descritte in RF2 [extension 3];&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 3: si seleziona il titolo desiderato [extension 4].&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Extensions&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- extension 1: &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Se l&#39;utente si trova nella pagina del titolo specifico desiderato, può cliccare sul pulsante con la scritta &quot;Aggiungi alla lista/Visualizza in futuro&quot; per aggiungere il titolo, rispettivamente alla lista dei contenuti già guardati e da vedere in futuro&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- extension 2: Se l’utente si trova nella pagina della lista dei contenuti già guardati, può aggiungere un titolo alla top10 scorrendo il mouse sullo stesso e cliccando su “Aggiungi alla top10”;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- extension 3: La ricerca di un contenuto per la top10 è automaticamente filtrata tra la lista dei titolo già visti.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- extension 4: Se il titolo che si vuole aggiungere alla lista dei contenuti già guardati è una serie tv, è possibile selezionare fino a che stagione si è arrivati;&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="2380" width="800" height="480" as="geometry" />
+        <mxCell id="clMWLkqwr1al6dAaRuHI-113" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-8832ff7d-7fff-4561-34a8-9b71825dbb9a&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Titolo&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Aggiungere film o serie tv alle proprie liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Riassunto&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Questo use case descrive come avviene l&#39;aggiunta dei contenuti alle liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Descrizione&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- step 1: l’utente, dalla pagina dei &quot;già guardati&quot; clicca sul pulsante “Aggiungi alla top 10” per aggiungere il contenuto scelto alla Top 10&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3242.5" y="2710" width="800" height="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr6qqKlRClDojzAu1IHL-1" value="&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot; id=&quot;docs-internal-guid-8832ff7d-7fff-4561-34a8-9b71825dbb9a&quot;&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt; font-size: 15px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Titolo&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Aggiungere film o serie tv alle proprie liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt; font-size: 15px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Riassunto&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Questo use case descrive come avviene l&#39;aggiunta dei contenuti alle liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt; font-size: 15px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Descrizione&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;-step 1: dalla pagina della propria lista, premere il tasto col simbolo &#39;+&#39; per aggiungere un nuovo titolo&lt;br style=&quot;font-size: 15px;&quot;&gt;- step 2: viene visualizzata una a schermo un barra della ricerca, dove l&#39;utente può inserire il titolo del contenuto desiderato[extension 1]&lt;br&gt;-step 3: viene quindi visualizzata una lista con tutti i risultati compatibili, fra i quali l&#39;utente può scegliere il più opportuno da aggiungere [extension 2]&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt; font-size: 15px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; background-color: rgb(248, 249, 250); font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Extensions&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial; background-color: rgb(248, 249, 250); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;:&lt;br&gt;- extension 1: se si ricerca un contenuto per aggiungerlo alla Top 10, questa viene automaticamente filtrata fra quelli già visionati;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt; font-size: 15px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial; font-size: 15px;&quot;&gt;- extension 2: Se il titolo che si vuole aggiungere alla lista dei contenuti già guardati è una serie tv, è possibile selezionare fino a che stagione si è arrivati;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial; font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;spacingLeft=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3374.5" y="1150" width="824.5" height="502" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr6qqKlRClDojzAu1IHL-2" value="&lt;br&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot; id=&quot;docs-internal-guid-8832ff7d-7fff-4561-34a8-9b71825dbb9a&quot;&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Titolo&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Aggiungere film o serie tv alle proprie liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Riassunto&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;: Questo use case descrive come avviene l&#39;aggiunta dei contenuti alle liste.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.38; margin-left: 36pt; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline;&quot;&gt;Descrizione&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: rgb(248, 249, 250); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;:&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-size: 11pt; font-family: Arial; vertical-align: baseline;&quot;&gt;- step 1:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-size: 11pt; font-family: Arial; background-color: rgb(248, 249, 250); vertical-align: baseline;&quot;&gt;Se l&#39;utente si trova nella pagina del titolo specifico desiderato, può cliccare sul pulsante con la scritta &quot;Aggiungi alla lista/Visualizza in futuro&quot; per aggiungere il titolo, rispettivamente alla lista dei contenuti già guardati o da vedere in futuro&lt;/span&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-size: 11pt; font-family: Arial; vertical-align: baseline;&quot;&gt;;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;spacingLeft=-19;" vertex="1" parent="1">
+          <mxGeometry x="3302.5" y="1930" width="740" height="237" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
