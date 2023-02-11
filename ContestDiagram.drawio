@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T18:55:39.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="w1wTXYCTwy6J7tR-KLFW" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T15:35:36.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="z3JceTzWuNuoL6CLYFwB" version="20.8.10" type="github">
   <diagram id="dAtFrbRqFhm2w0OMjDu8" name="Pagina-1">
-    <mxGraphModel dx="1455" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,12 +216,6 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-53" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Approva/disapprova recensioni&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-52" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-54" value="Codice" style="endArrow=classic;html=1;rounded=0;exitX=0.638;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="548.73" as="sourcePoint" />
-            <mxPoint x="330" y="709.9954061153018" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.172;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="PEF5FeGuaxUVhhYKDudY-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="530" as="sourcePoint" />
@@ -231,15 +225,16 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-57" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Richiesta di &lt;br&gt;accesso alla chat&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-56" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-58" value="Richiesta invio maill" style="endArrow=classic;html=1;rounded=0;exitX=0.348;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1">
+        <mxCell id="Iv0paGdok0cvm0LcO6Oo-58" value="Richiesta invio email e codice" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1" target="PEF5FeGuaxUVhhYKDudY-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="550" as="sourcePoint" />
             <mxPoint x="229.99999999999986" y="711.2654061153016" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-59" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Richiesta invio&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;mail con codice&lt;br&gt;= unica freccia + freccia per conferma mail in registrazione???&lt;br&gt;&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-58" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="38" y="219" as="offset" />
+            <mxPoint x="50" y="354" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-60" value="C" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -251,7 +246,7 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-61" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Invio richiesta&lt;br&gt;donazione&lt;br&gt;&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-60" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.608;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="PEF5FeGuaxUVhhYKDudY-1">
+        <mxCell id="Iv0paGdok0cvm0LcO6Oo-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.608;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="160" as="sourcePoint" />
             <mxPoint x="320" y="70" as="targetPoint" />
@@ -272,11 +267,8 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-66" value="user e contenuti" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-10" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-67" value="separa invio mail e invio codice&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="740" width="190" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YD_aeKzXO214wBn--px5-1" value="torna indietro apertura chat?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="425" y="735" width="170" height="30" as="geometry" />
+          <mxGeometry x="1050" y="810" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
