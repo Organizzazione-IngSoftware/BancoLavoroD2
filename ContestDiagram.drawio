@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T14:21:18.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xCRECxNy7egxO6VMJX2t" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T12:38:33.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="u64-oJq9_sj5LeHXgBrf" version="20.8.10" type="github">
   <diagram id="dAtFrbRqFhm2w0OMjDu8" name="Pagina-1">
-    <mxGraphModel dx="2927" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2233" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,15 +141,6 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-31" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Creazione e modifica di liste&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-30" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.783;exitY=0.085;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="472" y="234.99999999999994" as="sourcePoint" />
-            <mxPoint x="662" y="234.99999999999994" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-33" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;?Visualizza liste?&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-32" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="662" y="429.99999999999994" as="sourcePoint" />
@@ -209,8 +200,8 @@
         </mxCell>
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-52" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="662" y="470" as="sourcePoint" />
-            <mxPoint x="430" y="470" as="targetPoint" />
+            <mxPoint x="894" y="960" as="sourcePoint" />
+            <mxPoint x="662" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-53" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Approva/disapprova recensioni&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-52" connectable="0" vertex="1">
@@ -225,7 +216,7 @@
         <mxCell id="Iv0paGdok0cvm0LcO6Oo-57" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;Richiesta di &lt;br&gt;accesso alla chat&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="Iv0paGdok0cvm0LcO6Oo-56" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iv0paGdok0cvm0LcO6Oo-58" value="Richiesta invio email e codice" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" target="PEF5FeGuaxUVhhYKDudY-7" edge="1">
+        <mxCell id="Iv0paGdok0cvm0LcO6Oo-58" value="Richiesta invio email e codice" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PEF5FeGuaxUVhhYKDudY-1" edge="1" target="PEF5FeGuaxUVhhYKDudY-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="550" as="sourcePoint" />
             <mxPoint x="229.99999999999986" y="711.2654061153016" as="targetPoint" />
@@ -269,6 +260,18 @@
         </mxCell>
         <mxCell id="YD_aeKzXO214wBn--px5-1" value="torna indietro apertura chat?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1050" y="810" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XjfcJIO8OUWN_W-gcX83-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.783;exitY=0.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649.9950000000002" y="990.0049999999998" as="sourcePoint" />
+            <mxPoint x="931.86" y="990.68" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="799.86" y="990.68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XjfcJIO8OUWN_W-gcX83-2" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;?Visualizza liste?&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="XjfcJIO8OUWN_W-gcX83-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
